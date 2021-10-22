@@ -1,0 +1,27 @@
+.myDiv {
+  background-color: lightblue;    
+  text-align: center;
+  height : 100px;
+  width :100px;
+}
+
+.btnBlock{
+ align-content: left;
+}
+
+.cardBlock{
+  margin-top: 10px;
+  border-radius: 3px;
+}
+
+.tableBlock{
+  border-radius: 3px;
+}
+
+.title{
+  text-align: left;
+}
+
+.numberBlock{
+  justify-content: center;
+}
